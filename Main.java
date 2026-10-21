@@ -17,3 +17,9 @@ public class Main {
         //SwingUtilities.invokeLater(() -> new MainFrame().setVisible(true));
     }
 }
+
+/*
+//TODO
+    Click on Developer for search list of their games
+
+ */
